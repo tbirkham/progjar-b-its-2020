@@ -10,8 +10,8 @@
 
 **c) Capture hasil keluaran dari program udpfileclient.py dari alamat 192.168.1.186 menuju 192.168.1.208 ke port 5006 !**
 
-![](screenshot%20from%20wireshark/2b-lain.png)
+![](screenshot%20from%20wireshark/2a-lain.png)
 
 **d) Capture hasil keluaran dari program udp_simple.py dari alamat 192.168.1.186 menuju 192.168.1.208 ke port 5006 !**
 
-![](screenshot%20from%20wireshark/2a-lain.png)
+![](screenshot%20from%20wireshark/2b-lain.png)
