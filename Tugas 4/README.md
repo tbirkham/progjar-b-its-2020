@@ -25,7 +25,7 @@ Untuk melihat isi dari folder "dir", maka jalankan list file dan hasilnya akan s
 ![](screenshot/protocol%20format.png)
 
 ## Nomor 3
-** Penggunaan JSON**
+**Penggunaan JSON**
 Berikut adalah bukti pengunaan JSON untuk menampilkan isi (List) file :
 ![](screenshot/json.png)
 
