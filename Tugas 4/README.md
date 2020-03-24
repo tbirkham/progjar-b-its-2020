@@ -33,7 +33,7 @@ Hasil dari penggunaan JSON untuk melihat list file adalah sebagai berikut :
 ![](screenshot/client%20list2.png)
 
 ## Nomor 4
-Untuk melihat client setiap fitur dapat diakses di bawah ini :
+Untuk melihat client dari setiap fitur dapat diakses di bawah ini :
 - Untuk client yang bertugas meletakkan file dapat diakses di [client_upload.py](client_upload.py)
 - Untuk client yang bertugas mengambil file dapat diakses di [client_download.py](client_download.py)
 - Untuk client yang bertugas melihat isi file dapat diakses di [client_list.py](client_list.py)
