@@ -1,3 +1,6 @@
+## Tabulasi hasil performance test untuk tiap concurrency
+![](hasil.png)
+
 ## Benchmark dengan menjalankan request sebanyak 10
 ### Concurrency 1
 ![](n10c1.png)
@@ -33,6 +36,3 @@
 
 ### Concurrency 100
 ![](n100c100.png)
-
-## Tabulasi hasil benchmark untuk tiap concurrency
-![](hasil.png)
