@@ -5,13 +5,13 @@
 ![](jalanin%20http.png)
 
 ## Request dari browser
-![](buka%browser.png)
+![](buka%20browser.png)
 
 ## Respon dari server terhadap browser
-![](respon%server%browser.png)
+![](respon%20server%20browser.png)
 
 ## Request dari aplikasi postman
-![](buka%postman.png)
+![](buka%20postman.png)
 
 ## Respon dari server terhadap postman
-![](respon%server%postman.png)
+![](respon%20server%20postman.png)
